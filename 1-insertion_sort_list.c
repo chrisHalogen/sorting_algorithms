@@ -26,7 +26,7 @@ void swap_nodes(listint_t **h, listint_t **n1, listint_t *n2)
  *                       using the insertion sort algorithm.
  * @list: A pointer to the head of a DLL of integers.
  *
- * Description: Prints the DLL after each swap.
+ * Description: Prints the DLL after each swap
  */
 void insertion_sort_list(listint_t **list)
 {
